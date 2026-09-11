@@ -20,22 +20,22 @@ arquivo que contém `main` em primeiro lugar.
 
 | Pasta | Programa | Arquivos |
 |---|---|---|
-| `cd01_led_pisca` | LED piscando a cada 500 ms | main.c |
-| `cd02_botao_led` | Leitura de um botão e acionamento de um LED | main.c |
-| `cd03_debounce` | Antirrepique de um botão por *software* | main.c |
-| `cd04_maquina_estados` | Controle de uma bomba por máquina de estados | main.c |
-| `cd05_oito_leds` | Oito LEDs ligados a uma porta inteira | main.c |
+| `cd01_led_pisca` | LED piscando a cada 500 ms | [main.c](./Cap3_IO_Digital/cd01_led_pisca/main.c) |
+| `cd02_botao_led` | Leitura de um botão e acionamento de um LED | [main.c](./Cap3_IO_Digital/cd02_botao_led/main.c) |
+| `cd03_debounce` | Antirrepique de um botão por *software* | [main.c](./Cap3_IO_Digital/cd03_debounce/main.c) |
+| `cd04_maquina_estados` | Controle de uma bomba por máquina de estados | [main.c](./Cap3_IO_Digital/cd04_maquina_estados/main.c) |
+| `cd05_oito_leds` | Oito LEDs ligados a uma porta inteira | [main.c](./Cap3_IO_Digital/cd05_oito_leds/main.c) |
 
 ## Capítulo 4 — Temporizadores
 
 | Pasta | Programa | Arquivos |
 |---|---|---|
-| `cd01_timer0_modo1_1ms` | Temporizador 0 em modo 1: base de 1 ms | main.c |
-| `cd02_timer_modo2_250us` | Temporizador em modo 2: base de 250 µs | main.c |
-| `cd03_timer0_modo3` | Temporizador 0 em modo 3: dois contadores de 8 *bits* | main.c |
-| `cd04_contador_externo` | Contagem de pulsos externos no pino T1 | main.c |
-| `cd05_timer2_recarga` | Temporizador 2 com recarga automática | main.c |
-| `cd06_timer2_captura`*** | Medida de período com o modo de captura do temporizador 2 | main.c |
+| `cd01_timer0_modo1_1ms` | Temporizador 0 em modo 1: base de 1 ms | [main.c](./Cap4_Temporizadores/cd01_timer0_modo1_1ms/main.c) |
+| `cd02_timer_modo2_250us` | Temporizador em modo 2: base de 250 µs | [main.c](./Cap4_Temporizadores/cd02_timer_modo2_250us/main.c) |
+| `cd03_timer0_modo3` | Temporizador 0 em modo 3: dois contadores de 8 *bits* | [main.c](./Cap4_Temporizadores/cd03_timer0_modo3/main.c) |
+| `cd04_contador_externo` | Contagem de pulsos externos no pino T1 | [main.c](./Cap4_Temporizadores/cd04_contador_externo/main.c) |
+| `cd05_timer2_recarga` | Temporizador 2 com recarga automática | [main.c](./Cap4_Temporizadores/cd05_timer2_recarga/main.c) |
+| `cd06_timer2_captura`*** | Medida de período com o modo de captura do temporizador 2 | [main.c](./Cap4_Temporizadores/cd06_timer2_captura/main.c) |
 
 <!--## Capítulo 6 — Interrupções
 
